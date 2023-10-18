@@ -15,7 +15,7 @@
     padding-bottom: 200px;
 }
 
-.navigarion {
+.navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,7 +33,7 @@
     font-weight: bold;
 }
 
-.navigarion-holder {
+.navigation-holder {
     list-style-type: none;
     padding: 0;
     display: flex;
