@@ -23,7 +23,7 @@ wavesurfer.init({
     scrollParent: false
 });
 
-
+wavesurfer.load("Max_Tarconi_-_Never_Stop_2022_Original_Mix_75147969.mp3")
 
 //загружаем нужную песню
 wavesurfer.load("sound.mp3");
