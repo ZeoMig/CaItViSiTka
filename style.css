@@ -311,3 +311,55 @@
 .img-card-3 {background-image: url(img/card-3.png);}
 
 .img-card-4 {background-image: url(img/card-4.png);}
+
+.footer {
+    background-color: #f5f6f8;
+    padding: 60px 0;
+}
+
+.cource-info-title {
+    font-weight: 600;
+    font-size: 70px;
+    color: #1a1a1a;
+    padding-bottom: 40px;
+}
+
+.footer-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #939495;
+    padding: 30px 0;
+}
+
+.left-block {
+    display: flex;
+    align-items: center;
+}
+
+.cource-number {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #a2a2a4;
+}
+
+.cource-block {
+    margin-left: 60px;
+    line-height: 1.5;
+}
+
+.cource-name {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+.cource-count {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    color: #9a9a9a;
+}
